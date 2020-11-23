@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-void func1(int* p);
-void func2(int** p);
-void func3(int*** p);
-void func4(int**** p);
+void func1(int* p);			//function
+void func2(int** p);			//function
+void func3(int*** p);			//function
+void func4(int**** p);			//function
 
 int main()
 {
